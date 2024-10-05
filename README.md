@@ -102,7 +102,7 @@ We appreciate your interest in contributing to **zangetsu**. Here's how you can 
 
 11. **Push the changes for review:**
 
-    git push origin branch-name
+    git push upstream branch-name
 
 12. **Open a Pull Request:** Create a pull request from your fork to this repository. Provide a concise title and description.
 
