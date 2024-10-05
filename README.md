@@ -98,11 +98,11 @@ We appreciate your interest in contributing to **zangetsu**. Here's how you can 
 
 10. **Commit all the changes (Write commit message as "Small Message"):**
 
-    git commit -m "<your-commit-message>"
+    git commit -m "your-commit-message"
 
 11. **Push the changes for review:**
 
-    git push origin <branch-name>
+    git push origin branch-name
 
 12. **Open a Pull Request:** Create a pull request from your fork to this repository. Provide a concise title and description.
 
